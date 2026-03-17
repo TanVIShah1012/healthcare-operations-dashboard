@@ -21,7 +21,7 @@ Dashboard Sheets
 SheetDescriptionRaw Data3,000 simulated appointments with scheduling, billing, and claim fieldsKPI Dashboard8 operational KPIs benchmarked against industry targetsDepartment SummaryDepartment-level breakdown with flagged outliersProvider UtilizationPivot table showing completion rate per provider
 
 KPIs Calculated
-KPIValueBenchmarkTotal Appointments3,000—Completion Rate61.2%>65%No-Show Rate19.7%<15%Avg Wait Time (Overall)26.4 mins<25 minsAvg Wait — Cardiology35.3 mins<25 mins 🔴Avg Wait — Orthopedics35.4 mins<25 mins 🔴Avg Claim Turnaround18.0 days<20 daysClaim Denial Rate19.7%<15%Total Billing Revenue$822,488—
+KPIValueBenchmarkTotal Appointments3,000—Completion Rate61.2%>65%No-Show Rate19.7%<15%Avg Wait Time (Overall)26.4 mins<25 minsAvg Wait — Cardiology35.3 mins<25 mins Avg Wait — Orthopedics35.4 mins<25 mins Avg Claim Turnaround18.0 days<20 daysClaim Denial Rate19.7%<15%Total Billing Revenue$822,488—
 
 Tools Used
 
